@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>HolzZauber – Maßgefertigte Küchen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fefefe;
+      color: #333;
+    }
+    h2 {
+      color: #444;
+    }
+    img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    .lang-block {
+      margin-bottom: 40px;
+    }
+    .kontakt-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 15px;
+    }
+    .kontakt-btn:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="d99d0b36-c38f-4dd2-b3bb-525f92f03d15.png" alt="Küche nach Maß">
+
+  <div class="lang-block">
+    <h2>Deutsch</h2>
+    <p>Erleben Sie die perfekte Kombination aus Funktionalität und Eleganz mit unseren maßgefertigten Küchenlösungen. Jedes Stück ist einzigartig gestaltet, um sich nahtlos in Ihr Zuhause einzufügen und Ihre Wünsche zu erfüllen.</p>
+    <a href="mailto:innenundaussenturen@gmail.com" class="kontakt-btn">Kontaktieren Sie uns</a>
+  </div>
+
+  <div class="lang-block">
+    <h2>Slovenščina</h2>
+    <p>Doživite popolno ravnovesje med funkcionalnostjo in eleganco z našimi kuhinjami po meri. Vsak element je natančno izdelan, da se prilega vašemu prostoru in vašim željam.</p>
+    <a href="mailto:innenundaussenturen@gmail.com" class="kontakt-btn">Kontaktiraj nas</a>
+  </div>
+
+  <div class="lang-block">
+    <h2>English</h2>
+    <p>Discover the ideal balance of functionality and elegance with our custom-made kitchens. Every detail is carefully crafted to fit your space and meet your individual preferences.</p>
+    <a href="mailto:innenundaussenturen@gmail.com" class="kontakt-btn">Contact us</a>
+  </div>
+
+</body>
+</html>
